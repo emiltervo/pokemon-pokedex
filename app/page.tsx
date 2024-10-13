@@ -21,7 +21,6 @@ const typeColors: { [key: string]: string } = {
   rock: "bg-rock",
   ghost: "bg-ghost",
   dragon: "bg-dragon",
-  dark: "bg-dark",
   steel: "bg-steel",
   fairy: "bg-fairy",
 };
